@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Треугольник</string>
+    <string name="button1">Вычислить</string>
+    <string name="text1">0</string>
+    <string name="text2">0</string>
+    <string name="per">Периметр:</string>
+    <string name="Sq">Площадь:</string>
+    <string name="x1">x1</string>
+    <string name="x2">x2</string>
+    <string name="y1">y1</string>
+    <string name="y2">y2</string>
+    <string name="x3">x3</string>
+    <string name="y3">y3</string>
+    <string name="_0">0</string>
+</resources>
