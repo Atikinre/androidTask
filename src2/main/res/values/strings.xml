@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Matrix</string>
+    <string name="button1">Дальше</string>
+    <string name="textview">Размер матрицы: </string>
+    <string name="matrix_build">Создать матрицу</string>
+    <string name="matrxiTask">Узнать номера строк все элементы которых четны</string>
+    <string name="button">Button</string>
+</resources>
